@@ -1,0 +1,47 @@
+
+h1{font-size:64px;
+    text-align:center;
+    font-family:helvetica;
+    font-weight: light;
+}
+h2{font-size:48px;
+    text-align:center;
+    color:grey;
+    font-family:helvetica;
+    font-weight: light;
+}
+body {
+     text-align:center;
+    font-family:helvetica;
+    font-weight: light;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .container {
+    width: 200px;
+    height: 2;
+}
+
+.smalltext {
+    width:200px;
+    height:200px;
+    padding-left: 10 px;
+}
+
+.work1 {
+    width:50%;
+    height:auto;
+    }
+
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
